@@ -1,0 +1,2 @@
+# SCEApiTest
+sce openAPI testcases
