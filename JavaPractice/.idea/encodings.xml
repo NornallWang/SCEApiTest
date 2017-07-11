@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/company/lorna/AbstractCases/EmployeeDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/lorna/AbstractCases/TempleDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/lorna/ArrayListCases/ArrayDemo1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/lorna/ArrayListCases/ArrayDemo2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/lorna/ArrayListCases/ArrayForYanghui.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/lorna/ArrayListCases/BinarySearchDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/lorna/ArrayListCases/BubbleSortDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/lorna/ArrayListCases/CalendarDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/lorna/ArrayListCases/CalendarDemo2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/lorna/ArrayListCases/InsertSortDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/lorna/ArrayListCases/LineSearch.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/lorna/ArrayListCases/MaxMinDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/lorna/ArrayListCases/SelectSortDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/lorna/ArrayListCases/StaticVoidDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/lorna/ArrayListCases/Yanghui.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/lorna/InterfaceCases/FactoryDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/lorna/InterfaceCases/InterfaceDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/lorna/InterfaceCases/PrinterDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/lorna/InterfaceCases/StrategyDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/lorna/ObjectCases/ConstructorDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/lorna/ObjectCases/Dog.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/company/lorna/ObjectCases/Employee.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/lorna/ObjectCases/MethodDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/lorna/ObjectCases/OverloadDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/lorna/ObjectCases/SinglonDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/lorna/ObjectCases/StringDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/lorna/ObjectCases/Student.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/lorna/ObjectCases/Teacher.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/lorna/PloyCases/AnimalDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/lorna/PloyCases/PrinterDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/lorna/PloyCases/SoldierDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/lorna/finalDemos/FinalDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/lorna/finalDemos/ObjectDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/lorna/finalDemos/PersonDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/lorna/finalDemos/SuperTeacher.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/lorna/finalDemos/TeacherDemo.java" charset="GBK" />
+  </component>
+</project>
